@@ -14,7 +14,7 @@ tcb -h
 # login
 tcb login
 # 创建一个新的function
-tcb new app <function name>
+tcb new <function name>
 # 首次部署function，注：需要到cloudbaserc.json文件目录下部署
 tcb fn deploy <function name>
 # 查看已经部署的function
@@ -28,6 +28,8 @@ tcb fn invoke <function name>
 ## 其他命令
 
 ```shell
+# 查看帮助
+tcb fn -h
 # 查看环境列表
 tcb env list
 # 安装依赖，注：需要在具体function文件夹下
