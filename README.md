@@ -36,3 +36,7 @@ tcb env list
 # 安装依赖，注：需要在具体function文件夹下
 npm i @cloudbase/node-sdk
 ```
+
+## 2023/03/21
+
+由于tencent对于云开发的更新和维护较少，同时云开发成本较高，每月最低二十元的费用并不低也不划算，cloudbase vue插件甚至不支持vue3，所以决定暂时放弃云开发，等待后续cloudbase vue插件支持vue3或者云开发能降价到时候会再考虑使用云开发。目前来说还是自建服务器比较划算。
