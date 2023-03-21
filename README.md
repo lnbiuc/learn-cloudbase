@@ -3,6 +3,7 @@
 ## doc
 
 [文档地址](https://docs.cloudbase.net/)
+[数据库文档](https://docs.cloudbase.net/api-reference/server/node-sdk/database/database)
 
 ## 常用命令
 
